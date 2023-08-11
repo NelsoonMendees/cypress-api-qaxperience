@@ -3,3 +3,4 @@ yarn.lock
 cypress/allure-report/*
 cypress/allure-results/*
 cypress/results/*
+.env
